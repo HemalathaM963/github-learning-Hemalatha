@@ -22,3 +22,6 @@ No installation required.
 # Tools:
 VS STUDIO
 
+# Testing:
+Need 5G network. 
+I will use mobile hotspot and also home 5G WIFI
