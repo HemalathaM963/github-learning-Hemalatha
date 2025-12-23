@@ -1,0 +1,8 @@
+# .gitignore file for GitHub Learning
+.vscode/
+.idea/
+/build
+/bin
+*.exe
+*.out
+*.log
